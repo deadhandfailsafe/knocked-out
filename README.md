@@ -284,6 +284,7 @@ When looking for an enemy target, roll 1D6 and modify based on the commander's s
 
 If this fails, instead of firing that turn, a crew can also scan again if they receive a radio report from a friendly unit who has spotted them. Sending out a radio call takes no action and that crew may continue their turn, but they must also again roll on the same table with their commander. If they successfully send the report, the vehicle who failed to spot can now spot again with a similar roll but at the cost of not being able to shoot. There is also no crew skill mod as the entire crew is now actively searching.
 
+Radio directed searching will give a -1 modifier to the search.
 
 #### To Hit
 If you want to hit a far target, your dice total for a hit needs to be in the 2-4 range for example.
