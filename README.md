@@ -9,7 +9,7 @@ Combat in relation to your own vehicle and crew is incredibly detailed and bruta
 
 Low rolls are better.
 
-The big focus is going to be on three or four nations for now. USA, RUS, and GER. There might be room for UK/COM and FRA as well. It's possible to eventually allow Czech, Italy, Japan, Poland and other nations using lended vehicles, but other than that, it's probably up to your own homebrewing.
+The big focus is going to be on three or four nations for now. USA, RUS, and GER. There might be room for UK/COM and FRA as well. It's possible to eventually allow Czech, Italy, Japan, Poland and other nations using lensed vehicles, but other than that, it's probably up to your own homebrewing.
 
 2D6 system following same armor numbers and some rules from ASL for a prototype. Units will face hex spines and use the same type of ASL Combat Arc.
 
@@ -210,7 +210,7 @@ Before starting a campaign with your assembled platoon, you will need to determi
 This is the stage you return to after you complete a mission and generate any sort of results in terms of crew morale or events, and manage any needed details such as rearming, refreshing, replacing crew and vehicles.
 
 ### Crew Morale
-At the start of a campaign and after a mission, crew morale needs to be established/restablished. Morale can also shift mid-encounter due to certain events, but in the end this is where it all really mounts up.
+At the start of a campaign and after a mission, crew morale needs to be established/reestablished. Morale can also shift mid-encounter due to certain events, but in the end this is where it all really mounts up.
 
 ### Repairs and Medical
 If any repairs or medical services are needed, this is where they are requisitioned. Instead of using a system of waiting a certain amount of days or etc, specific issues will have a percentage to be solved during this phase. If they fail, during the next Garage Phase, the level will be degraded by one in the direction of being easier. For EX: Let's say Level 1 medical issue has a 80% chance of being dealt with this phase, a level 2 60%, and a level 3 40%. If a level 3 failed the pass, during the next garage phase after the next mission, it would be degraded to a level 2 issue, and thus be easier. Failing a level 1 would make it an auto pass at the next garage phase.
@@ -323,7 +323,7 @@ When one of your AFVs receive a penetrating hit, the amount of systems destroyed
 | > Final TK#       | Shock             |
 
 ##### Ammo Detonation Checks
-Anytime Ammo is hit, roll 1D6, on a 6 ammo detonates and destroys the entire vehicle, as well as all crew in a firey explosive death.
+Anytime Ammo is hit, roll 1D6, on a 6 ammo detonates and destroys the entire vehicle, as well as all crew in a fiery explosive death.
 
 #### Shock and Bail Checks
 Anytime the vehicle is hit and a component or crew member is taken out of service, or if the armor just barely manages to stop the round, there's a shock check. If a crew is shocked, they skip their next turn. 
@@ -387,55 +387,3 @@ After the results of the mission have been decided, apply them to the campaign o
 - LESS THAN HALF OF ALL HITS WERE MADE ON THE FRONTAL ARMOR
 - AVERAGE DEATHS IN THE CREW OF A DESTROYED TANK WAS ONLY 1.3 MEN PER TANK
 - 75% OF ALL CREW CASULTIES OCCURED INSIDE THE TANK
-
-
-- - - -
-
-
-# Kriegsspiel
-A Thesis Proposal of Conflict Simulation through Complex Systems
-
-Wargaming has a long and important history of cultural impact in this world. Stemming from the 18th Century, wargaming has been employed by many nations for leadership training and conflict simulation as well as historical education and recreation. By applying the concepts of systems and game theory in the context of conflict simulation, I seek to delve into the various complications of creating a ruleset that tackles the various challenges and problems that arise from abstracting real life scenarios into realistic but fun simulations. The goal of simulating reality for these applications would be to recreate historical or hypothetical situations for learning, competitive, and casual purposes; broken down in ways that are of better understanding. By delving into and creating these systems, for my degree project I hope to produce a playable system that will be realistic, fun, and easy to understand and acquire.
-
-### Resources:
-##### Books:
-- Simulating War: Studying Conflict Through Simulation Games – Philip Sabin
-- War Games: A History of War On Paper – Philipp Von Hilgers
-- Stalingrad: The Fateful Siege: 1942-1943 – Antony Beevor
-- Red Army Tank Commander - Valsilly Bryukhov
-- Another River, Another Town - John P. Irwin
-- On War - Carl von Clausewitz
-- Tank Battles in Miniatures 1, 3, and 5 - Donald Featherstone, Bruce Quarrie
-- Tigers in the Mud - Otto Carius
-
-##### Movies
-- Fury
-
-##### Simulations:
-- Virtual Battlespace
-
-##### Video Games:
-- ARMA Series
-- Close Combat Series
-- Combat Mission Series
-- Flashpoint Campaigns
-- Men of War Series
-- Panzer General Series
-- Steel Panthers Series
-- Aurora 4X
-- Dwarf Fortress
-- Any of the systems created by John Tiller, and Gary Grigsby
-- World of Tanks
-- WarThunder
-
-##### Tabletop Games:
-- Advanced Squad Leader
-- Lock n’ Load Series
-- Advanced Tobruk System
-- No End In Sight
-- Bolt Action
-- Tank!
-- MBT
-- MechWar 77
-- B-17 Queen of the Skies
-- Patton's Best
